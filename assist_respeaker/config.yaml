@@ -1,9 +1,9 @@
 ---
 version: 1.0.0
-slug: assist_microphone
-name: Assist Microphone
+slug: assist_respeaker
+name: Assist Respeaker
 description: Use Assist with local microphone
-url: https://github.com/home-assistant/addons/blob/master/assist_microphone
+url: https://github.com/bazza2k/Assist_Respeaker/blob/master/assist_respeaker
 hassio_api: true
 arch:
   - amd64
